@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[giz:home|Door43 (giz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-giz|d43-giz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-giz/archive/master.zip|d43-giz.zip]]
+
+**Recent Changes**
+{{changes>ns = giz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/giz|Ethnologue data]]
+
